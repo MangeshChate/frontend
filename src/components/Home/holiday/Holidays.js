@@ -32,7 +32,7 @@ const cards = [
 export default function Holidays() {
   return (
     <div >
-      <div className="container-fluid p-5 d-flex flex-column justify-content-center align-items-center bg-light ">
+      <div className="container-fluid p-5 d-flex flex-column justify-content-center align-items-center  bg-light " >
         <h1 className='fw-bold'>HOLIDAYS</h1>
 
         <div className="container d-flex flex-wrap ">
